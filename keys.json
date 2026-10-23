@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "DARK-VIP": 9999
+  },
+  "ADMIN_KEYS": [
+    "DARK-VIP"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
